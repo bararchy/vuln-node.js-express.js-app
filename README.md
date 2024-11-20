@@ -48,13 +48,13 @@ While NodeGoat cover mostly OWASP Top 10(inc SSRF and ReDos). This project have 
 * Horizontal Privilege escalation
 * Insecure Object Deserialization
 * CSRF - Cross Site Request Forgery
-* SSRF - Server Side Request Forgery)
+* SSRF - Server Side Request Forgery
 * Click Jacking / Lack of Security Headers
 * Insecure Redirect
 * Vulnerable and Outdated Components (Probably, lol)
 * Forced Browsing
 * Password Hash With Insufficient Computational Effort
-* Excessive data exposure
+* Excessive Data Exposure
 * PII Leak - Personal Identifiable Information Exposure
 * BOLA - Broken Object Level Authorization
 * Broken user Authentication
